@@ -23,3 +23,7 @@ para testar se o ruby foi realmente instalado, digite:
 ``ruby -v``
 
 caso ele retorne a versão do ruby, ele foi instalado corretamente em sua máquina.
+
+## Próximo =>
+
+[Como executar código ruby na minha máquina](../usar-ruby/README.md)
