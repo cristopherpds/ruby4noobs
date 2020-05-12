@@ -22,7 +22,7 @@ Desmarque o checkbox "Run ridk install" to setup MSYS2 and development toolchain
 
 Abra o prompt de comando ou preferencialmente o Powershell, e digite "ridk install", quando o comando ser executado aperte "3" para selecionar a terceira opção
 
-[!ridk install](../../assets/instalacao-windows/download-ruby-windows-6.png)
+![ridk install](../../assets/instalacao-windows/download-ruby-windows-6.png)
 
 Quando o instalador perguntar "Which components shall be installed?" apenas digite ENTER e pronto, o Ruby está instalado na sua máquina!
 
