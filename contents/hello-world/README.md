@@ -36,3 +36,6 @@ Você pode utilizar tanto o **print** quanto o **puts** sem ou com parênteses t
 puts "Com ou sem parênteses"
 puts("Somos iguais")
 ```
+
+## Proximo =>
+[Váriaveis e tipos primitivos](../variaveis/README.md)
