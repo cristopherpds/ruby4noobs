@@ -84,10 +84,10 @@ nome = "João"
 
 puts "Olá " + nome
 
-puts "Tudo bem %s, como vai?" % nome
+puts "Tudo bem #{nome}, como vai?"
 ```
 
-Os dois puts irão mostrar o nome, que é João, mais uma outra string, como "Olá" e "Tudo Bem", mas o primeiro é a maneira mais comum, com soma ou concatenação de Strings enquanto o segundo usa algo chamado normalmente na programação de F Strings, onde podemos colocar uma variável dentro de uma string de maneira mais simples, precisamos colocar um % mais a primeira letra do tipo da variável, que no caso é s pois é uma string, depois de fecharmos a string, colocaremos um % e o nome de cada variável em ordem e pronto, iremos ter um código mais bonito e limpo.
+Os dois puts irão mostrar o nome, que é João, mais uma outra string, como "Olá" e "Tudo Bem", mas o primeiro é a maneira mais comum, com soma ou concatenação de Strings enquanto o segundo usa algo chamado normalmente na programação de F Strings, onde podemos colocar uma variável dentro de uma string de maneira mais simples, apenas coloque um jogo da velha, e entre as chaves {} coloque o nome da variável e pronto, iremos ter um código mais bonito e limpo.
 
 ## Proximo =>
 

@@ -17,3 +17,4 @@ Este repositório é um tutorial dedicado ao ensino da Linguagem de programaçã
 1. [Hello World](contents/hello-world/README.md)
 2. [Variáveis e tipos primitivos](contents/variaveis/README.md)
 3. [Comentários em Ruby](contents/comentarios/README.md)
+4. [Operadores](contents/operadores/README.md)

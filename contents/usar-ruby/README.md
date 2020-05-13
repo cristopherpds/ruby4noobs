@@ -16,6 +16,8 @@ ruby test.rb
 
 o arquivo será executado na própria linha de comando que você está, caso atualize o arquivo, apenas digite o comando novamente para executar o arquivo outra vez.
 
+Você também pode digitar ``irb`` em um terminal ou linha de comando, que abrirá o Ruby Interativo, maneira mais prática de testar seus comandos.
+
 ## Próximo =>
 
 [Variáveis em Ruby](../variaveis/README.md)
