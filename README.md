@@ -18,3 +18,5 @@ Este repositório é um tutorial dedicado ao ensino da Linguagem de programaçã
 2. [Variáveis e tipos primitivos](contents/variaveis/README.md)
 3. [Comentários em Ruby](contents/comentarios/README.md)
 4. [Operadores](contents/operadores/README.md)
+5. [Estruturas Condicionais](contents/condicionais/README.md)
+6. [Input do Usuário](contents/input-usuario/README.md)
