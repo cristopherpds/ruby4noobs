@@ -20,3 +20,4 @@ Este repositório é um tutorial dedicado ao ensino da Linguagem de programaçã
 4. [Operadores](contents/operadores/README.md)
 5. [Estruturas Condicionais](contents/condicionais/README.md)
 6. [Input do Usuário](contents/input-usuario/README.md)
+7. [Estruturas de Repetição](contents/repeticoes/README.md)
