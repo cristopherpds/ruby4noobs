@@ -15,4 +15,4 @@ Sem o .chomp, após o input do usuário for pego, haverá a quebra de uma linha,
 
 ## Proximo =>
 
-Perae, to fazendo...
+[Estruturas de Repetição](../repeticoes/README.md)
