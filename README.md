@@ -21,3 +21,5 @@ Este repositório é um tutorial dedicado ao ensino da Linguagem de programaçã
 5. [Estruturas Condicionais](contents/condicionais/README.md)
 6. [Input do Usuário](contents/input-usuario/README.md)
 7. [Estruturas de Repetição](contents/repeticoes/README.md)
+8. [Arrays](contents/arrays/README.md)
+9. [Funções](contents/funcoes/README.md)

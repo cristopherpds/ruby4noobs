@@ -12,6 +12,7 @@ Tipos primivos, ou tipos de data, são os valores possíveis que podem ser guard
 - Int (números inteiros)
 - Float (números decimais)
 - Boolean (verdadeiro ou falso)
+- Nil (Nulo)
 
 ---
 
@@ -74,6 +75,10 @@ vivo = true
 ```
 
 a utilidade dos Booleans é que podemos usar para determinar se o programa já passou até certo ponto, o usuário marcou algum checkbox dentre outras coisas.
+
+## Nil
+
+Nil é um tipo primitivo menos usado, ele representa um valor nulo, apenas isso, que pode ser modificado para um outro tipo primitivo, como Int ou String.
 
 ## Usando variáveis junto com puts/print
 
