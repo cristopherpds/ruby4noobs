@@ -20,4 +20,4 @@ Você também pode digitar ``irb`` em um terminal ou linha de comando, que abrir
 
 ## Próximo =>
 
-[Variáveis em Ruby](../variaveis/README.md)
+[Hello World em Ruby](../hello-world/README.md)
