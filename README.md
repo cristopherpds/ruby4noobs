@@ -23,3 +23,4 @@ Este repositório é um tutorial dedicado ao ensino da Linguagem de programaçã
 7. [Estruturas de Repetição](contents/repeticoes/README.md)
 8. [Arrays](contents/arrays/README.md)
 9. [Funções](contents/funcoes/README.md)
+10. [Lendo e escrevendo arquivos](contents/ler-escrever/README.md)

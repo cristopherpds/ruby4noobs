@@ -44,3 +44,6 @@ puts "ESTOUROU!"
 É perguntado ao usuário quantos segundos ele quer que demore para os fogos estourarem, e esse valor é pego em um for, o tempo é uma variável que diz qual é o índice do for, como podemos ver no ``0 .. segundos`` o for irá ir de 0 até o valor de segundos que o usuário selecionou, e o for irá se repetir até acabarem os segundos ou no caso, o tempo ser igual ao de segundos, que está explicado no comentário o motivo.
 
 Brinque um pouco com o for e o while, são as duas estruturas de repetição básicas do ruby, há outras duas, mas que para começar no ruby, não serão úteis.
+
+## Proximo
+[Arrays em Ruby](../arrays/README.md)

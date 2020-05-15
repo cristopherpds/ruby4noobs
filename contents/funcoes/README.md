@@ -93,3 +93,6 @@ puts fazer_op("soma", 3, 4)
 ```
 
 Analise o código acima, a função fazer_op recebe 3 parâmetros, a operação, o primeiro e o segundo número, é usado um case para saber se a operação é uma soma, subtração, multiplicação ou uma divisão, e para cada um desses casos, se for verdadeiro a função retornará o num1 sendo operado pelo num2, e se nenhum desses casos for verdadeiro, a função retorn um erro, o return é essencial para funções.
+
+## Proximo =>
+[Ler e Escrever arquivos em Ruby](../ler-escrever/README.md)
