@@ -71,8 +71,5 @@ arquivo = File.write("historia.txt", conteudo, mode: "a")
 
 Escrevemos o conteúdo, e usamos o ``File.write`` passando como argumento um mode, que no caso é a, de append que significa em uma tradução livre adicionar.
 
-# Parabéns!
-
-Caso você tenha digitado, testado, experimentado, enfim, todos os códigos e exemplos contidos neste 4Noobs você já sabe o básico do Ruby, divulge este repositório, dê Star, e busque ensinar as pessoas o que você sabe, pois quem mais aprende, é você.
-
-Feito por Ederson Ferreira, contato: edersondeveloper@gmail.com
+## Proximo =>
+[Ruby Gems](../gems/README.md)
