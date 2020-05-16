@@ -14,7 +14,7 @@ Hello World com print:
 print "Hello World"
 ```
 
-A diferença entre os dois é que o **puts** após mostrar o conteúdo, quebra uma linha para baixo, como se fosse um palágrafo, enquanto o **print** apenas mostra o conteúdo na tela sem quebrar a linha, veja na prática no exemplo abaixo o funcionamento do **print**:
+A diferença entre os dois é que o **puts** após mostrar o conteúdo quebra uma linha, como se fosse um palágrafo de um texto, enquanto o **print** apenas mostra o conteúdo na tela sem pular uma linha para baixo, e na proxima vez que você tentar mostrar algo na tela, ele continuará no ponto que parou, veja na prática no exemplo abaixo o funcionamento do **print**:
 
 ```ruby
 print "Hello"
