@@ -25,5 +25,6 @@ Este repositório é um tutorial dedicado ao ensino da Linguagem de programaçã
 9. [Funções](contents/funcoes/README.md)
 10. [Lendo e escrevendo arquivos](contents/ler-escrever/README.md)
 11. [Ruby Gems](contents/gems/README.md)
+12. [O que é o Rails?](contents/rails/README.md)
 
 Para contribuir, veja o arquivo CONTRIBUTING.md, pois lá estão as instruções, bons estudos.

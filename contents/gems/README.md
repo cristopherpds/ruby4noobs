@@ -25,3 +25,7 @@ Simples dessa maneira é o uso do Ruby Gems, que funciona da mesma maneira que o
 Caso você tenha digitado, testado, experimentado, enfim, todos os códigos e exemplos contidos neste 4Noobs você já sabe o básico do Ruby, divulge este repositório, dê Star, e busque ensinar as pessoas o que você sabe, pois quem mais aprende, é você.
 
 Feito por Ederson Ferreira, contato: edersondeveloper@gmail.com
+
+## (Bônus)
+
+[O que é Ruby on Rails?](../rails/README.md)
