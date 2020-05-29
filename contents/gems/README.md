@@ -20,12 +20,6 @@ Usamos o ``require`` para importar o binary em nosso arquivo, e APENAS podemos u
 
 Simples dessa maneira é o uso do Ruby Gems, que funciona da mesma maneira que o NPM (Javascript) e o Pip (Python) por exemplo, podendo baixar pacotes como bibliotecas da linguagem de maneira fácil.
 
-# Parabéns!
+## Proximo =>
 
-Caso você tenha digitado, testado, experimentado, enfim, todos os códigos e exemplos contidos neste 4Noobs você já sabe o básico do Ruby, divulge este repositório, dê Star, e busque ensinar as pessoas o que você sabe, pois quem mais aprende, é você.
-
-Feito por Ederson Ferreira, contato: edersondeveloper@gmail.com
-
-## (Bônus)
-
-[O que é Ruby on Rails?](../rails/README.md)
+[Criando a sua própria Gem](contents/criando-gem/README.md)

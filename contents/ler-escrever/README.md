@@ -72,4 +72,5 @@ arquivo = File.write("historia.txt", conteudo, mode: "a")
 Escrevemos o conteúdo, e usamos o ``File.write`` passando como argumento um mode, que no caso é a, de append que significa em uma tradução livre adicionar.
 
 ## Proximo =>
-[Ruby Gems](../gems/README.md)
+
+[O que é o Rails?](contents/rails/README.md)
