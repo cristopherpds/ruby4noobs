@@ -1,9 +1,15 @@
 # Como executar um script ruby?
 
-Simples, abra o prompt de comando ou Powershell caso esteja no Windows, ou abra o Terminal se está no Linux, crie uma pasta com o seu gerenciador de arquivos e navegue até essa pasta, vamos supor que ela está em *Documentos/ruby*, para acessar ela digite
+Simples, abra o prompt de comando ou Powershell caso esteja no Windows, ou abra o Terminal se está no Linux, crie uma pasta com o seu gerenciador de arquivos e navegue até essa pasta, vamos supor que ela está em *Documentos/ruby*, Caso você esteja em um Linux ou Mac, para acessar ela digite
 
 ```
 cd Documentos/ruby
+```
+
+Caso você esteja no Windows, use:
+
+```
+cd Documentos\ruby
 ```
 
 agora com um editor de texto, ou com a IDE (Ambiente de Desenvolvimento Integrado) de sua preferência, escreva o código, recomendo que caso escolha usar uma IDE, pesquise sobre o Visual Studio Code, baixe e instale ele na sua máquina, crie o arquivo sempre com a terminação ".rb" e pronto, apenas digite o código em seu editor de texto ou de código.
