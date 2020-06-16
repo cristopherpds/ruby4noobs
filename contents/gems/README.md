@@ -22,4 +22,4 @@ Simples dessa maneira é o uso do Ruby Gems, que funciona da mesma maneira que o
 
 ## Proximo =>
 
-[Criando a sua própria Gem](contents/criando-gem/README.md)
+[Criando a sua própria Gem](../criando-gem/README.md)
