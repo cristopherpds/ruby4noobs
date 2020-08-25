@@ -10,6 +10,7 @@
         puts :ola.object_id    # => 132178
         puts :ola.object_id    # => 132178
 ````
+
 Cada vez que uma string é usada, um novo objeto é criado. Então, quando usar uma string e quando usar um símbolo?
 
 - Se o conteúdo do objeto for importante, use uma string.
