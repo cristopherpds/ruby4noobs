@@ -20,7 +20,7 @@ A maneira mais simples de descobrir se uma expressão (também funciona com stri
 
 ## Construindo expressões regulares
 
-Qualquer caractere que fique entre barras é pesquisado exatamente:
+Qualquer caractere que fique entre barras é pesquisado de forma exata:
 
 ````
     /a/ # procura a letra a e qualquer palavra que a contenha
@@ -32,13 +32,13 @@ Alguns caracteres tem um significado especial em expressoes regulares. Para evit
 ````
 O ``\`` significa "não trate o próximo caractere como especial." Os caracteres especiais incluem: ``^, $ ,? ,., /, \, [,], {,}, (,), + e *``.
 
-## O curinga. (ponto)
-Às vezes, qualquer caracter é pesquisado em uma determinada posiçao. Isso é conseguido graças ao. (ponto). Um ponto, localiza qualquer caractere exceto o retorno de carro.
+## O coringa. (ponto)
+Às vezes, qualquer caracter é pesquisado em uma determinada posição. Isso é conseguido graças ao. (ponto). Um ponto, localiza qualquer caractere exceto o retorno de carro.
 
 ````
     /.assado/
 ````
-Pesquise por 'mazado' e 'cazado'. Ele também encontra '%azado' e '8azado'. É por isso que você deve ter cuidado ao usar o ponto: ele pode dar mais resultados do que você deseja. No entanto, você pode colocar restriçoes nos resultados, especificando as classes de caracteres pesquisadas.
+Pesquise por 'mazado' e 'cazado'. Ele também encontra '%azado' e '8azado'. É por isso que você deve ter cuidado ao usar o ponto: ele pode dar mais resultados do que você deseja. No entanto, você pode colocar restrições nos resultados, especificando as classes de caracteres pesquisadas.
 
 ## Classes de caracteres
 
@@ -61,7 +61,7 @@ Dentro dos colchetes, voce pode especificar um intervalo de pesquisa.
     /[^A-Fa-f0-9]/ #encontre qualquer caractere exceto hexadecimais
 ````
 
-## Abreviaçoes para classes de caracteres
+## Abreviações para classes de caracteres
 
 Para encontrar qualquer cifra decimal, essas duas expressões são equivalentes:
 ````
