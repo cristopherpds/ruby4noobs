@@ -34,6 +34,7 @@ esta devolve o valor associado  á chave com valor 1.
    > telefone2.key?("home")  # => true
 ````
 esta é uma consulta para ver se a chave home existe.
+
 ````shell
  > telefone.value?(1)   # => true
 
@@ -46,7 +47,7 @@ Não apenas podemos definir um **Hash** implicitamente, mas também podemos faze
 ```ruby
     browsers = Hash.new  #=> {}
 ```
-Este cria um **Hash** vazio, ai vc se pergunta mais como você poderia adicinar informaçoes, e simples.
+Este cria um **Hash** vazio, E para adicionar mais informaç, e simples.
 ````ruby
     browsers[:name] = "Chrome"
 ````
@@ -55,22 +56,25 @@ ou
 ````ruby
     browsers2["name"] = "Opera"
 ````
-ao executar a variavel vera:
+ao executar a variável verá:
 
 ````shell
    > browsers  # => {:name=>"Chrome"}
 
    > browsers2 # => {"name"=>"Opera"}
 ````
+
 O que acontece se você quiser acessar uma chave chamada ``data``.
-Ele vai me dizer que nil, este nao exite
+Ele vai me retornar que nil, este não existe
+
 ````shell
    > browsers[:data] #=> nil
 ````
 Como posso resolver essa parte?
-Existem duas formas de expecificar um valor por padrao. Este ira executar cuando nao encontre um elemento.
+Existem duas formas de especificar um valor por padrão. Este irá executar quando não encontre um elemento.
 
 Uma das formas e no momento que estou criando meu **Hash**, desta forma.
+
 ````ruby
     browsers = Hash.new("padrao")
 ````
@@ -81,10 +85,12 @@ ou
 ````shell
  > browsers[:data] #=> "Nao encontrado"
 ````
+
 isso o torna algo muito bom de usar dentro de um **Hash**, pois é algo que os arrays não suportam.
 Os Hashes e uma forma simples de representar estructuras de dados
-dentro do Ruby e sao comumente usados ​​como parâmetros nomeados dentro de funçoes dentro de Ruby e Rails
+dentro do Ruby e sao normalmente usados como parâmetros nomeados dentro de funçoes dentro de Ruby e Rails
 
 Notaçao:
 Em Ruby e muinto comum utilizar 
+
 [Simbolos](../simbolos/README.md) para representar as chaves.
